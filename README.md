@@ -11,7 +11,7 @@ This repository contains a quantitative finance project firstly developed in Mat
 * **Transaction Costs Penalty**: Determination of the optimal portfolio weights by maximizing a utility function penalized by transaction costs, demonstrating how transaction fees prevent extreme short selling and encourage a balanced, well-diversified allocation.
 
 ## Data Requirements
-The original dataset (`Lab3-students.xlsx`) contains daily stock prices for Amazon, Facebook, and Apple. Due to academic/internal policy, the dataset is not included in this public repository. 
+The original dataset (`Lab3-students.xlsx`) contains daily stock prices for Amazon, Facebook, and Apple. Due to academic/internal policy, the dataset is not included in the repository. 
 To run the notebook locally, place a compatible Excel file in a `data/` directory with the historical prices of the assets in a sheet formatted with the assets as columns.
 
 ## Technologies Used
